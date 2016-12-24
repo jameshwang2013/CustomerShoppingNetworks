@@ -1,0 +1,14 @@
+features,lasso_selection_frequency,lasso_coefficients,X.IncMSE
+Directs_In_Revenue,1,0.729871426,0.688217873
+Subgraph_Revenue,1,0.10679467,0.44178259
+Degrees_Out,1,0.099127883,0.223182815
+Density_Subgraph,1,-1.360759244,0.148949144
+Closeness_Centrality_FullGraph,0.986,-4865539123,0.096861649
+Weighted_PageRank,1,-373.3713259,0.041568644
+Indvdl_Revenue,0.027,-0.000204507,0.036362836
+Betweenness_Centrality,0.001,1.72E-07,0.024648941
+Closeness_Centrality_Subgraph,1,-0.043912535,0.024336202
+Mean_Edge_Strength_Out,0.168,0.000183985,0.006017681
+Degrees_In,1,-0.222194197,0.005746889
+Mean_Edge_Strength_In,0.004,-1.09E-05,0.004096547
+Local_Clustering,0.005,3.22E-05,-0.000513212
